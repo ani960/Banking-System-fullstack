@@ -1,0 +1,21 @@
+# Node
+node_modules/
+.next/
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+
+# .NET
+bin/
+obj/
+
+# VS files
+.vs/
+*.user
+*.suo
+
+# OS
+.DS_Store
+Thumbs.db
